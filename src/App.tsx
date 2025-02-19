@@ -1,7 +1,7 @@
-import Message from "./message";
-
-function App(){
-  return <div><Message /></div>
+function App () {
+  return(
+    <h1>Hello world</h1>
+  )
 }
 
 export default App;
